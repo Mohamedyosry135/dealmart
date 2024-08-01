@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="menu" transform="translate(-27 -66)">
+    <g id="sidemenu_icon" transform="translate(27 66)">
+      <rect id="Rectangle_1215" data-name="Rectangle 1215" width="20" height="20" fill="none"/>
+      <path id="menu-left-2-icon" d="M8.75,17a1.25,1.25,0,1,0,0-2.5H1.25a1.25,1.25,0,0,0,0,2.5Zm10-6.25a1.25,1.25,0,1,0,0-2.5H1.25a1.25,1.25,0,1,0,0,2.5Zm-5-6.25a1.25,1.25,0,1,0,0-2.5H1.25a1.25,1.25,0,1,0,0,2.5Z" transform="translate(0 1)" fill="#faa300" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
