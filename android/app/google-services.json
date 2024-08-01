@@ -1,0 +1,451 @@
+{
+  "project_info": {
+    "project_number": "974666375155",
+    "firebase_url": "https://my-project-1556407613593.firebaseio.com",
+    "project_id": "my-project-1556407613593",
+    "storage_bucket": "my-project-1556407613593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974666375155:android:f579cef7a466f7852bbc86",
+        "android_client_info": {
+          "package_name": "anamehani2.anaprovider.com.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1SEGVr9QqZnv_pBVJz4isVR1WUGscWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974666375155-fovfjo4pclbrt3ck2q0t9lnkmtqqu2s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "deal.mart.dealmart.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974666375155:android:fd0c8c10160189ab2bbc86",
+        "android_client_info": {
+          "package_name": "com.anaprovider.anamehani2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1SEGVr9QqZnv_pBVJz4isVR1WUGscWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974666375155-fovfjo4pclbrt3ck2q0t9lnkmtqqu2s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "deal.mart.dealmart.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974666375155:android:f71dcb89f0f24d4b2bbc86",
+        "android_client_info": {
+          "package_name": "com.cloudtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1SEGVr9QqZnv_pBVJz4isVR1WUGscWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974666375155-fovfjo4pclbrt3ck2q0t9lnkmtqqu2s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "deal.mart.dealmart.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974666375155:android:c06f5377d3c1c17f2bbc86",
+        "android_client_info": {
+          "package_name": "com.harefproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1SEGVr9QqZnv_pBVJz4isVR1WUGscWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974666375155-fovfjo4pclbrt3ck2q0t9lnkmtqqu2s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "deal.mart.dealmart.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974666375155:android:a6f0b09c5a11ccf02bbc86",
+        "android_client_info": {
+          "package_name": "com.skypeclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974666375155-gp7iahl1e9rpki6h87659siaan7e91t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skypeclone",
+            "certificate_hash": "e8c144bd811ace6e7c39cdde39a8aef1d26bfa4e"
+          }
+        },
+        {
+          "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1SEGVr9QqZnv_pBVJz4isVR1WUGscWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974666375155-fovfjo4pclbrt3ck2q0t9lnkmtqqu2s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "deal.mart.dealmart.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974666375155:android:50763db106956da92bbc86",
+        "android_client_info": {
+          "package_name": "deal.mart.dealmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974666375155-sra5043bohb3okj95aq10v56lnsefhrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "deal.mart.dealmart",
+            "certificate_hash": "dee280d0f6cc2272c4638e2ae9d12d5bba8c67cc"
+          }
+        },
+        {
+          "client_id": "974666375155-k7khjfdq0mtn7a3jjdb1v3ite4ci518d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "deal.mart.dealmart",
+            "certificate_hash": "e4adcc4557e7c9defd067fc68aa444ec793d2baf"
+          }
+        },
+        {
+          "client_id": "974666375155-gf89putnjs9sa82rjbjvmm5fb07ur27f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "deal.mart.dealmart",
+            "certificate_hash": "0c91c6a13a22b49889e830b6b88a2783e30b15f4"
+          }
+        },
+        {
+          "client_id": "974666375155-u3rmo4rejcargjtv92ei88ki1mqs9to1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "deal.mart.dealmart",
+            "certificate_hash": "e082d9ffc48c67d3cf88be50682c64c5f232a372"
+          }
+        },
+        {
+          "client_id": "974666375155-ni18hopbpe6dnr47vl32u85ios9k217g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "deal.mart.dealmart",
+            "certificate_hash": "dc23535a9de522ef082e45297a6eb3d79b683933"
+          }
+        },
+        {
+          "client_id": "974666375155-1sc1l6e4u85qqnkleci6pt6rnu0kcvtr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "deal.mart.dealmart",
+            "certificate_hash": "e8c144bd811ace6e7c39cdde39a8aef1d26bfa4e"
+          }
+        },
+        {
+          "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1SEGVr9QqZnv_pBVJz4isVR1WUGscWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974666375155-fovfjo4pclbrt3ck2q0t9lnkmtqqu2s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "deal.mart.dealmart.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974666375155:android:f143191cfbe0b6bc2bbc86",
+        "android_client_info": {
+          "package_name": "herafiprovider.herafiprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1SEGVr9QqZnv_pBVJz4isVR1WUGscWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974666375155-fovfjo4pclbrt3ck2q0t9lnkmtqqu2s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "deal.mart.dealmart.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974666375155:android:ecc7d8303a19622f2bbc86",
+        "android_client_info": {
+          "package_name": "v2.muslimdo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974666375155-k9l9u2plm71eijfcpkkpi98a0t9ucapm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "v2.muslimdo",
+            "certificate_hash": "bbe2b8b4db86f33b93f34b4ccb1817cf6725a5cc"
+          }
+        },
+        {
+          "client_id": "974666375155-7jut8jmg6j1evfqqhv9c7g1q86ba9nq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "v2.muslimdo",
+            "certificate_hash": "e8c144bd811ace6e7c39cdde39a8aef1d26bfa4e"
+          }
+        },
+        {
+          "client_id": "974666375155-fchau57hr0kpg2qk2k0ss67fi1khfm4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "v2.muslimdo",
+            "certificate_hash": "9b7317d25423cf921aa617ebd72998d098752ca3"
+          }
+        },
+        {
+          "client_id": "974666375155-a55rqhverj6llg4hkeqjs2cf7hkh982m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "v2.muslimdo",
+            "certificate_hash": "abe43aad951b7a2dda44787484f8f1074d767c5e"
+          }
+        },
+        {
+          "client_id": "974666375155-94ib9jeu5uprq1kov0lq0nfn2gcl3opu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "v2.muslimdo",
+            "certificate_hash": "2a8b88d731d80c89cde7d904af5f20bffeb3b9d1"
+          }
+        },
+        {
+          "client_id": "974666375155-chn4u423i1qrk31vpa5niaot6d8dp177.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "v2.muslimdo",
+            "certificate_hash": "3149502385e47db69401b249bca666d3c6ca7444"
+          }
+        },
+        {
+          "client_id": "974666375155-jes0l433nt5l4bsobcrkvhnhpifpgifj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "v2.muslimdo",
+            "certificate_hash": "0f0342783696ee040d38fc52f17a615c6b07ad7b"
+          }
+        },
+        {
+          "client_id": "974666375155-qcs3aj38906m3ae11qafkftor5fkllft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "v2.muslimdo",
+            "certificate_hash": "00acd7f13de62f315b6e1fed71fea1cbc95cd746"
+          }
+        },
+        {
+          "client_id": "974666375155-2pkbcmcovsd8ba2edni4ds9c75qncq09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "v2.muslimdo",
+            "certificate_hash": "c9f53ab9d2b2937587e281002d0f11e1cf110694"
+          }
+        },
+        {
+          "client_id": "974666375155-053787u71f905jg571obbhicq24ti5fg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "v2.muslimdo",
+            "certificate_hash": "2a8b88d731d80c89cde7d904af5f20bffeb3b9d2"
+          }
+        },
+        {
+          "client_id": "974666375155-2uceusjm2lr3195a5eqrqf2bs17fjo0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "v2.muslimdo",
+            "certificate_hash": "63032b4d62f9b6136845f8f174f5b6c0f905cc2b"
+          }
+        },
+        {
+          "client_id": "974666375155-iih2antsdsvmqcmakdnomfh2jodift94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "v2.muslimdo",
+            "certificate_hash": "77d3222dbd331424554a6b252a7da48168d18edb"
+          }
+        },
+        {
+          "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1SEGVr9QqZnv_pBVJz4isVR1WUGscWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974666375155-pnejgpqmh7b7mmieoggi60lausv10gqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974666375155-fovfjo4pclbrt3ck2q0t9lnkmtqqu2s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "deal.mart.dealmart.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
